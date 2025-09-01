@@ -14,6 +14,9 @@ Preview PDF in-app
 
 Save letters to a base Excel file to prevent duplicates
 
+<img width="915" height="646" alt="image" src="https://github.com/user-attachments/assets/f2a61f90-9d4a-4c30-a5cb-c10d539f8b99" />
+
+
 🛠️ Tech Stack
 
 Python 3.8+
