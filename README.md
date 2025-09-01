@@ -33,19 +33,6 @@ PyMuPDF (fitz) – PDF preview as image
 
 OpenPyXL – Read/write Excel files
 
-📂 Project Structure
-lettre_liaison/
-│
-├── Requirement/
-│   ├── lll.CSV
-│   ├── logo.jpg
-│   ├── logo.png
-│   ├── cachet.png
-│   └── Base_LettreLiaison.xlsx
-│
-├── main.py
-└── README.md
-
 ⚙️ Requirements
 
 CSV file (lll.CSV) and images (logo.jpg/png, cachet.png) in Requirement folder
